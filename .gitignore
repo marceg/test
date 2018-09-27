@@ -1,0 +1,15 @@
+#  Ignore everything by default:
+/*
+
+#  And allow specific files and subdirectories:
+!.gitignore
+!README.md
+!boards/
+!hal/
+!include/
+!libgloss/
+!sim/
+!xmon/
+!xos/
+!xtos/
+
